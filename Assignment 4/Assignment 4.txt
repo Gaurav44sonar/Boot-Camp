@@ -1,0 +1,1 @@
+Take any picture and perform image processing steps covered in today’s session
